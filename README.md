@@ -6,8 +6,8 @@
 - ✔
 - ✉ E-mail para contato:<div align="center">
 <a href="https://github.com/PedroGabriel17">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGabriel17&show_icons=true&theme=ayu&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGabriel17&layout=compact&langs_count=7&theme=ayu"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroGabriel17&show_icons=true&theme=ayu&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGabriel17&layout=compact&langs_count=7&theme=ayu"/>
 </div>
 <br>
 <div style="display: inline_block"><br><img align="center" alt="Pedro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
