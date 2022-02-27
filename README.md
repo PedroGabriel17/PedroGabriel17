@@ -20,7 +20,6 @@
 <br>
 <div>
 <a href="https://www.linkedin.com/in/pedro-gabriel-26b7411b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/pedro-gabriel-26b7411b7/"_blank"></a>
-<a href = "mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><br>
+<a href = "mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 </a>![Snake animation](https://github.com/PedroGabriel17/PedroGabriel17/blob/output/github-contribution-grid-snake.svg)</div>
 
